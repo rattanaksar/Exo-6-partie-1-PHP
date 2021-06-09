@@ -1,5 +1,5 @@
 <?php
-        $name= "Rattanak";
+        $name= 'Rattanak';
 ?>
 <!DOCTYPE html>
 <html lang="fr">
@@ -12,7 +12,7 @@
 <body>
     <h1>Exo 6 Partie : Les variables PHP</h1>
     <p>
-    <?="Bonjour $name, comment vas-tu ?";?>
+    <?='Bonjour $name, comment vas-tu ?';?>
     </p>
 </body>
 </html>
